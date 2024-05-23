@@ -8,4 +8,10 @@ password: java
 # 3. Attendee:
 -email: hh@gmail.com
 password: 789
+# db_confugurations:
+CREATE USER '222014243'@'localhost' IDENTIFIED BY 222014243';
+ GRANT ALL PRIVILEGES ON exam_vlwp.* TO '222014243'@'localhost'; 
+
+
+
 
