@@ -8,9 +8,12 @@ password: java
 # 3. Attendee:
 -email: hh@gmail.com
 password: 789
-# db_confugurations:
-CREATE USER '222014243'@'localhost' IDENTIFIED BY 222014243';
- GRANT ALL PRIVILEGES ON exam_vlwp.* TO '222014243'@'localhost'; 
+# project decription:
+The Virtual Lean Workshop Platform is a web-based system designed to facilitate the 
+management and operation of workshops. Developed using HTML, JavaScript, CSS, 
+Bootstrap, and PHP, the platform connects to a MySQL database to handle various data 
+and processes. The system supports workshop administration, instructor management, 
+user management, module management, attendee tracking, and problem resolution.
 
 
 
